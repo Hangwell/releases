@@ -1,0 +1,58 @@
+{%- comment -%}
+  YouTube video with no cookies until the visitor clicks (SITO_WEB.md).
+  Before the click: only our own thumbnail, no request to Google.
+  After the click: the youtube-nocookie.com player is loaded.
+
+  Use:  {% include youtube.html id="VIDEO_ID" title="Crop for Etsy in 1 minute" %}
+  Thumbnail: assets/video/VIDEO_ID.jpg (1280x720, ours, never from i.ytimg.com).
+  Optional: lang="it" for the Italian note.
+{%- endcomment -%}
+{%- assign thumb = "/assets/video/" | append: include.id | append: ".jpg" | relative_url -%}
+<figure class="hw-video" data-id="{{ include.id }}">
+  <button type="button" class="hw-video-play" aria-label="{% if include.lang == 'it' %}Guarda il video{% else %}Play video{% endif %}: {{ include.title }}">
+    <img src="{{ thumb }}" alt="{{ include.title }}" width="1280" height="720" loading="lazy">
+    <span class="hw-video-icon" aria-hidden="true"></span>
+  </button>
+  <figcaption>
+    {% if include.lang == 'it' %}
+      Il video si carica da YouTube (Google) solo quando lo avvii: da quel momento valgono le
+      <a href="https://policies.google.com/privacy">regole sulla privacy di Google</a>.
+      Oppure <a href="https://www.youtube.com/watch?v={{ include.id }}">guardalo su YouTube</a>.
+    {% else %}
+      The video loads from YouTube (Google) only when you start it; from then on
+      <a href="https://policies.google.com/privacy">Google's privacy policy</a> applies.
+      Or <a href="https://www.youtube.com/watch?v={{ include.id }}">watch it on YouTube</a>.
+    {% endif %}
+  </figcaption>
+</figure>
+<script>
+(function () {
+  if (window.hwVideoReady) return;
+  window.hwVideoReady = true;
+  var style = document.createElement("style");
+  style.textContent =
+    ".hw-video{margin:24px 0}" +
+    ".hw-video-play{position:relative;display:block;width:100%;padding:0;border:0;background:#16181D;cursor:pointer;aspect-ratio:16/9;border-radius:8px;overflow:hidden}" +
+    ".hw-video-play img{display:block;width:100%;height:100%;object-fit:cover}" +
+    ".hw-video-icon{position:absolute;left:50%;top:50%;width:68px;height:48px;margin:-24px 0 0 -34px;border-radius:12px;background:rgba(22,24,29,.85)}" +
+    ".hw-video-icon::after{content:'';position:absolute;left:28px;top:14px;border-style:solid;border-width:10px 0 10px 16px;border-color:transparent transparent transparent #fff}" +
+    ".hw-video-play:hover .hw-video-icon,.hw-video-play:focus-visible .hw-video-icon{background:#5068F2}" +
+    ".hw-video iframe{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:8px}" +
+    ".hw-video figcaption{font-size:.85em;opacity:.75;margin-top:8px}";
+  document.head.appendChild(style);
+  document.addEventListener("click", function (event) {
+    var button = event.target.closest(".hw-video-play");
+    if (!button) return;
+    var box = button.parentNode;
+    var id = encodeURIComponent(box.getAttribute("data-id"));
+    var frame = document.createElement("iframe");
+    frame.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0";
+    frame.title = button.querySelector("img").alt;
+    frame.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+    frame.allowFullscreen = true;
+    frame.referrerPolicy = "strict-origin-when-cross-origin";
+    box.replaceChild(frame, button);
+    frame.focus();
+  });
+})();
+</script>
