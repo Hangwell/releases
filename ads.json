@@ -1,0 +1,124 @@
+{
+  "ads": [
+    {
+      "id": "erank-it",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-it.png",
+      "sha256": "7accc9025947b77559c298cf995e72fedf075970c8675b4911784048062a892e",
+      "url": "https://erank.com?fpr=hangwell",
+      "text": {
+        "it": "eRank · SEO e parole chiave per Etsy (link di affiliazione)"
+      },
+      "langs": [
+        "it"
+      ]
+    },
+    {
+      "id": "erank-en",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-en.png",
+      "sha256": "3fe8bcc5b267f4c08ccc03416591e3ad3d7f898029bc825a771d618d0b1529ee",
+      "url": "https://erank.com?fpr=hangwell",
+      "text": {
+        "en": "eRank · Etsy SEO and keyword research (affiliate link)"
+      },
+      "langs": [
+        "en"
+      ]
+    },
+    {
+      "id": "erank-de",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-de.png",
+      "sha256": "6ab25e03e9b330c04c05c7b55dc64d728ec4f1d0c5e928c6c11813ba2ecc67f3",
+      "url": "https://erank.com?fpr=hangwell",
+      "text": {
+        "de": "eRank · Etsy-SEO und Keyword-Recherche (Affiliate-Link)"
+      },
+      "langs": [
+        "de"
+      ]
+    },
+    {
+      "id": "erank-es",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-es.png",
+      "sha256": "2025b64c211ace08646e2d5b51e36a9cf2ab3bad4ae4fdb5d59222ddc8192116",
+      "url": "https://erank.com?fpr=hangwell",
+      "text": {
+        "es": "eRank · SEO y palabras clave para Etsy (enlace de afiliado)"
+      },
+      "langs": [
+        "es"
+      ]
+    },
+    {
+      "id": "erank-fr",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-fr.png",
+      "sha256": "ea50c359fbf6f378fc4d924e831475dcbeb61e9bd0397da2d88dff522c0aaad3",
+      "url": "https://erank.com?fpr=hangwell",
+      "text": {
+        "fr": "eRank · SEO et mots-clés pour Etsy (lien affilié)"
+      },
+      "langs": [
+        "fr"
+      ]
+    },
+    {
+      "id": "everbee-it",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-it.png",
+      "sha256": "517f5053da381b76407ab2194e57cb370cae43c28f102a3ec5d5b3fd2560a222",
+      "url": "https://www.everbee.io/?via=hangwell",
+      "text": {
+        "it": "EverBee · Ricerca prodotti per Etsy (link di affiliazione)"
+      },
+      "langs": [
+        "it"
+      ]
+    },
+    {
+      "id": "everbee-en",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-en.png",
+      "sha256": "bf3013b3a2b9c82919828bc3bfe42603eedeb1604a88c4fe3e4ef9ab544a14dd",
+      "url": "https://www.everbee.io/?via=hangwell",
+      "text": {
+        "en": "EverBee · Etsy product research (affiliate link)"
+      },
+      "langs": [
+        "en"
+      ]
+    },
+    {
+      "id": "everbee-de",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-de.png",
+      "sha256": "d2b7ecf23c156fe7f47e94bee5beac90c62cfd0364d1e1c57264f3e281dd7d96",
+      "url": "https://www.everbee.io/?via=hangwell",
+      "text": {
+        "de": "EverBee · Etsy-Produktrecherche (Affiliate-Link)"
+      },
+      "langs": [
+        "de"
+      ]
+    },
+    {
+      "id": "everbee-es",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-es.png",
+      "sha256": "28932ad5df531440aff1c493946186e4684cfabfac08ab6dbe8d5e7c3a4be289",
+      "url": "https://www.everbee.io/?via=hangwell",
+      "text": {
+        "es": "EverBee · Investigación de productos para Etsy (enlace de afiliado)"
+      },
+      "langs": [
+        "es"
+      ]
+    },
+    {
+      "id": "everbee-fr",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-fr.png",
+      "sha256": "a8578ee53ff6a406c957b28cfa2b3298debb967e2d4ccba01b7d16d76767d90b",
+      "url": "https://www.everbee.io/?via=hangwell",
+      "text": {
+        "fr": "EverBee · Recherche de produits Etsy (lien affilié)"
+      },
+      "langs": [
+        "fr"
+      ]
+    }
+  ]
+}
