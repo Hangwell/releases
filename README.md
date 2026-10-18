@@ -20,8 +20,7 @@
   <a href="#download"><b>Download</b></a> ·
   <a href="#what-it-does">What it does</a> ·
   <a href="#private-by-design">Privacy</a> ·
-  <a href="#faq">FAQ</a> ·
-  <a href="#italiano">Italiano</a>
+  <a href="#faq">FAQ</a>
 </p>
 
 <br>
@@ -35,15 +34,15 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Made for wall art</h3>
+      <b>Made for wall art</b><br><br>
       Real frame sizes (2:3, 3:4, 4:5, 5:7, 11:14, ISO A), inches and centimeters, 300 DPI, and Etsy's rules built in: 20 MB per file, 5 files, 20 photos, 13 tags.
     </td>
     <td width="33%" valign="top">
-      <h3>One click, whole listing</h3>
+      <b>One click, whole listing</b><br><br>
       The <b>Listing package</b> upscales when needed, writes the print files, mockups, social images, Shopify CSV, a buyer PDF and the listing texts — one folder per artwork.
     </td>
     <td width="33%" valign="top">
-      <h3>Offline and private</h3>
+      <b>Offline and private</b><br><br>
       No account, no cloud, no tracking. Even the AI upscale runs on your own computer. No internet? No ads, and everything still works.
     </td>
   </tr>
@@ -95,15 +94,36 @@ Need room photos for your mockups? Pick a room, style, wall color and light, cop
 
 ### And also
 
-| | |
-|---|---|
-| **Physical prints** | Files for Printful, Gelato, Prodigi or your local lab: bleed and safe area, canvas edges (mirrored, stretched or solid color) for the frame depth, colors in sRGB, a check image with the cut lines. |
-| **Listing texts** | Title, description and 13 tags following Etsy's rules, with color words taken from your artwork ("sage green", "terracotta"). |
-| **Trademark warning** | Spots risky names (characters, brands, famous artists) in titles, tags and descriptions before you publish. |
-| **Social & Shopify** | Instagram, Pinterest and Facebook images; Shopify product images, Digital Downloads ZIP and `shopify_products.csv`. |
-| **Buyer PDF** | A "thank you + how to print" PDF in 5 languages, with your shop name or logo and links. |
-| **Work your way** | Projects you can reopen, undo history, recipes for your favorite settings, custom file names, a job queue so you can keep working. |
-| **Connect Claude** | Hangwell includes an MCP server: Claude Desktop or Claude Code can run exports, upscales, mockups and listing packages for you. |
+<table>
+  <tr>
+    <td valign="top" width="22%"><b>Physical prints</b></td>
+    <td valign="top">Files for Printful, Printify, Gelato, Prodigi or your local lab: bleed and safe area, canvas edges (mirrored, stretched or solid color) for the frame depth, colors in sRGB, a check image with the cut lines.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Listing texts</b></td>
+    <td valign="top">Title, description and 13 tags following Etsy's rules, with color words taken from your artwork ("sage green", "terracotta").</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Trademark warning</b></td>
+    <td valign="top">Spots risky names (characters, brands, famous artists) in titles, tags and descriptions before you publish.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Social & Shopify</b></td>
+    <td valign="top">Instagram, Pinterest and Facebook images; Shopify product images, Digital Downloads ZIP and <code>shopify_products.csv</code>.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Buyer PDF</b></td>
+    <td valign="top">A "thank you + how to print" PDF in 5 languages, with your shop name or logo and links.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Work your way</b></td>
+    <td valign="top">Projects you can reopen, undo history, recipes for your favorite settings, custom file names, a job queue so you can keep working.</td>
+  </tr>
+  <tr>
+    <td valign="top" width="22%"><b>Connect Claude</b></td>
+    <td valign="top">Hangwell includes an MCP server: Claude Desktop or Claude Code can run exports, upscales, mockups and listing packages for you.</td>
+  </tr>
+</table>
 
 ## Private by design
 
@@ -161,27 +181,8 @@ Open an <a href="https://github.com/Hangwell/releases/issues">issue</a> or write
 
 ---
 
-<a id="italiano"></a>
-
-## Italiano
-
-**Dalla tua opera a un'inserzione pronta da vendere.** Hangwell è lo studio di stampa per chi vende wall art: file digitali su Etsy e Shopify o stampe fisiche con il print-on-demand.
-
-- **Ritaglio** in tutte le misure delle cornici vere (2:3, 3:4, 4:5, 5:7, 11:14, ISO A), in cm e pollici, a 300 DPI.
-- **File per Etsy** sotto i 20 MB, uno ZIP per formato, al massimo 5 file; anche PNG e PDF.
-- **Upscale AI offline** con Real-ESRGAN, anche con un tuo modello.
-- **Mockup Studio**: stanze, gallerie, cornici, guida misure, dettaglio da vicino, template tuoi.
-- **Pacchetto inserzione** in un clic: file, mockup, social, Shopify, PDF per il cliente e testi con 13 tag.
-- **Set e trittici**, **stampe fisiche** (Printful, Gelato, Prodigi, laboratorio), **25.272 prompt** per stanze con la parete vuota, avviso dei **marchi protetti**, collegamento con **Claude**.
-- **Niente account, niente cloud**: le tue immagini non lasciano mai il computer. Gratis con un piccolo banner, che offline non c'è.
-
-**[Scarica Hangwell 1.0.0 per Windows](https://github.com/Hangwell/releases/releases/download/v1.0.0/Hangwell-Setup-1.0.0.exe)** (se Windows mostra «PC protetto da Windows»: **Ulteriori informazioni → Esegui comunque**). In arrivo anche sul Microsoft Store. Interfaccia in italiano, inglese, tedesco, spagnolo e francese.
-[Informativa privacy](https://hangwell.github.io/releases/privacy#italiano) · Contatti: [hangwellprintstudio@gmail.com](mailto:hangwellprintstudio@gmail.com)
-
----
-
 <p align="center">
-  <sub>Hangwell is not affiliated with Etsy, Shopify, Printful, Gelato, Prodigi or Anthropic.
+  <sub>Hangwell is not affiliated with Etsy, Shopify, Printful, Printify, Gelato, Prodigi or Anthropic.
   AI upscale by <a href="https://github.com/xinntao/Real-ESRGAN">Real-ESRGAN</a> (BSD-3-Clause) · fonts Geist (OFL) · icons Phosphor (MIT).<br>
   © 2026 Hangwell</sub>
 </p>
