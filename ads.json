@@ -2,7 +2,7 @@
   "ads": [
     {
       "id": "erank-it",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-it.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/erank-it.png",
       "sha256": "37ed96f452d05220ca7ccf11b5daf1f1a6d3534aac2c9c3f53cff61e9cb93e9e",
       "url": "https://erank.com?fpr=hangwell",
       "text": {
@@ -14,7 +14,7 @@
     },
     {
       "id": "erank-en",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-en.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/erank-en.png",
       "sha256": "d0d3a55f242c67b698f28e1ba0cca9c9cd705296eaf6d5b662d2fe37727846dd",
       "url": "https://erank.com?fpr=hangwell",
       "text": {
@@ -26,7 +26,7 @@
     },
     {
       "id": "erank-de",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-de.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/erank-de.png",
       "sha256": "c2566dde3914ede0c8b17f4ea9aeed5a939abeb3e0ee42aae5c5a2e8bc34bd94",
       "url": "https://erank.com?fpr=hangwell",
       "text": {
@@ -38,7 +38,7 @@
     },
     {
       "id": "erank-es",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-es.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/erank-es.png",
       "sha256": "1bc35437af52b54debc7fd81ce73846d00cacab28134ca031cd2b20a1523ae8c",
       "url": "https://erank.com?fpr=hangwell",
       "text": {
@@ -50,7 +50,7 @@
     },
     {
       "id": "erank-fr",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/erank-fr.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/erank-fr.png",
       "sha256": "b5a2ec59e765afd42c3ee91a2c0abf40e30fba5977551647894c29304bf0b96a",
       "url": "https://erank.com?fpr=hangwell",
       "text": {
@@ -62,7 +62,7 @@
     },
     {
       "id": "everbee-it",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-it.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/everbee-it.png",
       "sha256": "80f14b2b9488130da869c31a74bbab3d75d28a4eddd97f3c3d4a73f0099f7005",
       "url": "https://www.everbee.io/?via=hangwell",
       "text": {
@@ -74,7 +74,7 @@
     },
     {
       "id": "everbee-en",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-en.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/everbee-en.png",
       "sha256": "c14d164a5d687a510de5579139629b4a35b5cdd5c5900962f81f8568499ee6ff",
       "url": "https://www.everbee.io/?via=hangwell",
       "text": {
@@ -86,7 +86,7 @@
     },
     {
       "id": "everbee-de",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-de.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/everbee-de.png",
       "sha256": "e3bd37b24327e6c9e1620cd0b3c0c6685e874e4e557d8f2e34abe76fe981f38a",
       "url": "https://www.everbee.io/?via=hangwell",
       "text": {
@@ -98,7 +98,7 @@
     },
     {
       "id": "everbee-es",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-es.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/everbee-es.png",
       "sha256": "ca2d207d3ff10450085f626334f142a68dd71bb3784da929bd875e6a406a149f",
       "url": "https://www.everbee.io/?via=hangwell",
       "text": {
@@ -110,7 +110,7 @@
     },
     {
       "id": "everbee-fr",
-      "image": "https://raw.githubusercontent.com/Hangwell/releases/main/ads/everbee-fr.png",
+      "image": "https://raw.githubusercontent.com/Hangwell/releases/5659fd33e5bdd17a964930647c6a0cc644285945/ads/everbee-fr.png",
       "sha256": "be8035bbcde2ae5878a53025f09d789f42f8c3ef9a885cb51f200ec05d50d337",
       "url": "https://www.everbee.io/?via=hangwell",
       "text": {
