@@ -115,8 +115,10 @@ Full details: [Privacy policy](https://hangwell.github.io/releases/privacy).
 
 ## Download
 
-> **Hangwell is coming to the Microsoft Store.** Releases will appear on the
-> [**Releases**](https://github.com/Hangwell/releases/releases) page — watch this repository to know when.
+**[Download Hangwell 8.0.0 for Windows](https://github.com/Hangwell/releases/releases/download/v8.0.0/Hangwell-Setup-8.0.0.exe)** (installer, 64 MB) · [all releases](https://github.com/Hangwell/releases/releases)
+
+> The installer is not code-signed yet, so Windows SmartScreen may say "Windows protected your PC":
+> click **More info → Run anyway**. Hangwell is also coming to the Microsoft Store.
 
 Once installed, Hangwell checks for new versions by itself and updates with one click
 (the Store version is updated by the Store).
@@ -173,7 +175,7 @@ Open an <a href="https://github.com/Hangwell/releases/issues">issue</a> or write
 - **Set e trittici**, **stampe fisiche** (Printful, Gelato, Prodigi, laboratorio), **25.272 prompt** per stanze con la parete vuota, avviso dei **marchi protetti**, collegamento con **Claude**.
 - **Niente account, niente cloud**: le tue immagini non lasciano mai il computer. Gratis con un piccolo banner, che offline non c'è.
 
-In arrivo sul Microsoft Store. Interfaccia in italiano, inglese, tedesco, spagnolo e francese.
+**[Scarica Hangwell 8.0.0 per Windows](https://github.com/Hangwell/releases/releases/download/v8.0.0/Hangwell-Setup-8.0.0.exe)** (se Windows mostra «PC protetto da Windows»: **Ulteriori informazioni → Esegui comunque**). In arrivo anche sul Microsoft Store. Interfaccia in italiano, inglese, tedesco, spagnolo e francese.
 [Informativa privacy](https://hangwell.github.io/releases/privacy#italiano) · Contatti: [hangwellprintstudio@gmail.com](mailto:hangwellprintstudio@gmail.com)
 
 ---

@@ -1,0 +1,13 @@
+{
+  "version": "8.0.0",
+  "url": "https://github.com/Hangwell/releases/releases/download/v8.0.0/Hangwell-Setup-8.0.0.exe",
+  "sha256": "2d932e04074377a964aeb4c7341bcdbaf277dad7a505344fcf1e2b0da1253a50",
+  "size": 66853142,
+  "notes": {
+    "it": "Prima versione pubblica.",
+    "en": "First public version.",
+    "de": "Erste öffentliche Version.",
+    "es": "Primera versión pública.",
+    "fr": "Première version publique."
+  }
+}
