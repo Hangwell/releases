@@ -135,13 +135,7 @@ Full details: [Privacy policy](https://hangwell.github.io/releases/privacy).
 
 ## Download
 
-**[Download Hangwell 1.0.0 for Windows](https://github.com/Hangwell/releases/releases/download/v1.0.0/Hangwell-Setup-1.0.0.exe)** (installer, 64 MB) · [all releases](https://github.com/Hangwell/releases/releases)
-
-> The installer is not code-signed yet, so Windows SmartScreen may say "Windows protected your PC":
-> click **More info → Run anyway**. Hangwell is also coming to the Microsoft Store.
-
-Once installed, Hangwell checks for new versions by itself and updates with one click
-(the Store version is updated by the Store).
+**Coming soon.** Hangwell for Windows is not available for download yet: it will arrive on the Microsoft Store.
 
 **Requirements:** Windows 10 or 11, 64-bit. For the AI upscale: about 16 GB of RAM and a Vulkan graphics card with ~4 GB is comfortable; without one, Hangwell uses classic resizing. macOS version planned.
 
